@@ -1,5 +1,5 @@
 {
-  "name": "424",
+  "name": "STUDIO424",
   "manufacturer": "Lightlike",
   "version": "1.0.0",
   "format": "vst2",
@@ -8,10 +8,10 @@
   "numInputs": 2,
   "numOutputs": 2,
   "category": "Effect",
-  "file32": "VST/424-arm32.so",
-  "file64": "VST/424-arm64.so",
-  "description": "424: a gain / tone / mix effect for the MPC. Describe your plugin here.",
+  "file32": "VST/studio424-arm32.so",
+  "file64": "VST/studio424-arm64.so",
+  "description": "STUDIO424: an early-90s cassette four-track mixer channel in a pedal. Trim into a saturating preamp, two-band shelving EQ, channel fader and a driveable mix bus with master fader.",
   "author": "Lightlike",
-  "url": "https://github.com/lightlikemusic/424",
+  "url": "https://github.com/lightlikemusic/studio424",
   "license": "MIT"
 }
