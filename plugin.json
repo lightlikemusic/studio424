@@ -1,0 +1,17 @@
+{
+  "name": "424",
+  "manufacturer": "Lightlike",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "effect",
+  "uid": "LLpp",
+  "numInputs": 2,
+  "numOutputs": 2,
+  "category": "Effect",
+  "file32": "VST/424-arm32.so",
+  "file64": "VST/424-arm64.so",
+  "description": "424: a gain / tone / mix effect for the MPC. Describe your plugin here.",
+  "author": "Lightlike",
+  "url": "https://github.com/lightlikemusic/424",
+  "license": "MIT"
+}
